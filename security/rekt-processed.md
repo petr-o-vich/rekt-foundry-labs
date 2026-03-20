@@ -14,3 +14,4 @@
 - 2026-03-17 | qubit-rekt | Qubit Finance (deposit validation bypass class) | https://rekt.news/qubit-rekt/
 - 2026-03-18 | wormhole-rekt | Wormhole (signature validation/guardian quorum class) | https://rekt.news/wormhole-rekt/
 - 2026-03-19 | balancer-rekt2 | Balancer (rounding direction bug class) | https://rekt.news/balancer-rekt2
+- 2026-03-20 | ronin-rekt | Ronin Bridge (validator takeover class) | https://rekt.news/ronin-rekt/
