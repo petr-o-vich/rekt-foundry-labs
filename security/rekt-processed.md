@@ -16,3 +16,4 @@
 - 2026-03-19 | balancer-rekt2 | Balancer (rounding direction bug class) | https://rekt.news/balancer-rekt2
 - 2026-03-20 | ronin-rekt | Ronin Bridge (validator takeover class) | https://rekt.news/ronin-rekt/
 - 2026-03-21 | harvest-finance-rekt | Harvest Finance (slippage/oracle manipulation class) | https://rekt.news/harvest-finance-rekt/
+- 2026-03-22 | lodestar-rekt | Lodestar Finance (collateral oracle manipulation class) | https://rekt.news/lodestar-rekt/
