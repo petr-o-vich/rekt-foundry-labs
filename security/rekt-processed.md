@@ -21,3 +21,4 @@
 - 2026-03-24 | templedao-rekt | TempleDAO (access control class) | https://rekt.news/templedao-rekt/
 - 2026-03-25 | bancor-rekt | Bancor (access control visibility class) | https://rekt.news/bancor-rekt/
 - 2026-03-26 | inverse-finance-rekt | Inverse Finance (oracle manipulation class) | https://rekt.news/inverse-finance-rekt/
+- 2026-03-27 | 1inch-rekt | 1Inch (signature replay class) | https://rekt.news/1inch-rekt
