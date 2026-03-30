@@ -24,3 +24,4 @@
 - 2026-03-27 | 1inch-rekt | 1Inch (signature replay class) | https://rekt.news/1inch-rekt
 - 2026-03-28 | furucombo-rekt | Furucombo (delegatecall initialization hijack class) | https://rekt.news/furucombo-rekt
 - 2026-03-29 | aevo-rekt | Aevo (oracle settlement access-control class) | https://rekt.news/aevo-rekt
+- 2026-03-30 | curve-rekt | Curve (reentrancy via vulnerable withdraw path class) | https://rekt.news/curve-rekt/
